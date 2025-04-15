@@ -6,3 +6,8 @@ struct mahasiswa{
     string nama;
     string alamat;
 };
+
+int main() {
+    //membuat object struct mahasiswa
+    mahasiswa mhs;
+}
